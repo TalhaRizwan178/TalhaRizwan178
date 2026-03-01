@@ -278,15 +278,25 @@ React-based app to add, search, and manage a personal book collection.
 
 <div align="center">
 
-<!-- Row 1: Profile Summary Cards (reliable, actively maintained) -->
+<!-- Full-width profile overview bar -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TalhaRizwan178&theme=radical" width="100%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TalhaRizwan178&theme=radical" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TalhaRizwan178&theme=radical" height="180"/>
+<!-- Two language cards side by side -->
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TalhaRizwan178&theme=radical" width="100%"/>
+</td>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TalhaRizwan178&theme=radical" width="100%"/>
+</td>
+</tr>
+</table>
 
-<!-- Row 2: Streak & Activity Graph -->
-<img src="https://streak-stats.demolab.com/?user=TalhaRizwan178&theme=radical" height="180"/>
+<!-- Streak centered -->
+<img src="https://streak-stats.demolab.com/?user=TalhaRizwan178&theme=radical" width="60%"/>
 
+<!-- Activity graph full width -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TalhaRizwan178&theme=react-dark&area=true" width="100%"/>
 
 </div>
