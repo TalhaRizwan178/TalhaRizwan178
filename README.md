@@ -19,7 +19,7 @@ I build real-world projects combining **React, Node.js, Flask, MongoDB, MySQL, a
 
 <!-- Contribution activity graph -->
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TalhaRizwan178&theme=tokyonight&cache_seconds=0" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TalhaRizwan178&show_icons=true&count_private=true&theme=tokyonight&border_color=bf91f3&bg_color=1a1b27&title_color=70a5fd&icon_color=70a5fd&text_color=c0caf5" width="100%"/>
 </div>
 
 ---
@@ -253,10 +253,10 @@ React-based app to add, search, and manage a personal book collection.
 <table width="100%">
 <tr>
 <td width="50%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TalhaRizwan178&theme=tokyonight&cache_seconds=0" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaRizwan178&layout=compact&theme=tokyonight&border_color=bf91f3&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5" width="100%"/>
 </td>
 <td width="50%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TalhaRizwan178&theme=tokyonight&cache_seconds=0" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaRizwan178&layout=donut&theme=tokyonight&border_color=bf91f3&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5" width="100%"/>
 </td>
 </tr>
 </table>
@@ -302,6 +302,16 @@ React-based app to add, search, and manage a personal book collection.
 <img src="https://streak-stats.demolab.com/?user=TalhaRizwan178&background=1a1b27&border=bf91f3&stroke=bf91f3&ring=70a5fd&fire=70a5fd&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=70a5fd&sideLabels=bf91f3&dates=c0caf5" width="60%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TalhaRizwan178&bg_color=1a1b27&color=c0caf5&line=70a5fd&point=bf91f3&title_color=70a5fd&area=true&area_color=bf91f3" width="100%"/>
+
+<!-- Snake contribution animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TalhaRizwan178/TalhaRizwan178/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TalhaRizwan178/TalhaRizwan178/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/TalhaRizwan178/TalhaRizwan178/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+<!-- Metrics card -->
+<img src="https://metrics.lecoq.io/TalhaRizwan178?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKarachi" width="100%"/>
 
 </div>
 
