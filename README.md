@@ -182,7 +182,7 @@ I build real-world projects combining **React, Node.js, Flask, MongoDB, MySQL, a
 24/JULY/2025 – 17/SEPTEMBER/2025</p>
 
 <ul>
-  <li>Contributed to web development & maintenance of the PTV News website</li>
+  <li>Contributed to web development Tasks</li>
   <li>Integrated MySQL with Node.js (Express) & React</li>
   <li>Designed responsive masonry grid layouts</li>
   <li>Built full-stack applications in a professional environment</li>
