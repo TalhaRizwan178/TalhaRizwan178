@@ -19,7 +19,7 @@ I build real-world projects combining **React, Node.js, Flask, MongoDB, MySQL, a
 
 <!-- Contribution activity graph -->
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TalhaRizwan178&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TalhaRizwan178&theme=tokyonight&cache_seconds=0" width="100%"/>
 </div>
 
 ---
@@ -253,10 +253,10 @@ React-based app to add, search, and manage a personal book collection.
 <table width="100%">
 <tr>
 <td width="50%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TalhaRizwan178&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TalhaRizwan178&theme=tokyonight&cache_seconds=0" width="100%"/>
 </td>
 <td width="50%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TalhaRizwan178&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TalhaRizwan178&theme=tokyonight&cache_seconds=0" width="100%"/>
 </td>
 </tr>
 </table>
