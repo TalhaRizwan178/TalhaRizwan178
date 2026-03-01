@@ -11,7 +11,7 @@ I build real-world projects combining **React, Node.js, Flask, MongoDB, MySQL, a
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TalhaRizwan178?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/TalhaRizwan178?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TalhaRizwan178?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-      <a href="mailto:your-email@example.com">
+      <a href="mailto:Talharizwan178@gmail.com">
          <img alt="email" title="Contact me" src="https://custom-icon-badges.demolab.com/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    </p>
 
