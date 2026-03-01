@@ -19,7 +19,7 @@ I build real-world projects combining **React, Node.js, Flask, MongoDB, MySQL, a
 
 <!-- Contribution activity graph -->
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TalhaRizwan178&theme=nord_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TalhaRizwan178&theme=synthwave" width="100%"/>
 </div>
 
 ---
@@ -253,10 +253,10 @@ React-based app to add, search, and manage a personal book collection.
 <table width="100%">
 <tr>
 <td width="50%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TalhaRizwan178&theme=nord_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TalhaRizwan178&theme=synthwave" width="100%"/>
 </td>
 <td width="50%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TalhaRizwan178&theme=nord_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TalhaRizwan178&theme=synthwave" width="100%"/>
 </td>
 </tr>
 </table>
@@ -299,9 +299,9 @@ React-based app to add, search, and manage a personal book collection.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=TalhaRizwan178&background=384959&border=6A89A7&stroke=6A89A7&ring=88BDF2&fire=88BDF2&currStreakNum=BDDDFC&sideNums=BDDDFC&currStreakLabel=88BDF2&sideLabels=88BDF2&dates=6A89A7" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=TalhaRizwan178&background=0D0D1A&border=BF5FFF&stroke=BF5FFF&ring=00FFFF&fire=00FFFF&currStreakNum=E0AAFF&sideNums=E0AAFF&currStreakLabel=00FFFF&sideLabels=BF5FFF&dates=E0AAFF" width="60%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TalhaRizwan178&bg_color=384959&color=BDDDFC&line=88BDF2&point=6A89A7&title_color=88BDF2&area=true&area_color=6A89A7" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TalhaRizwan178&bg_color=0D0D1A&color=E0AAFF&line=00FFFF&point=BF5FFF&title_color=00FFFF&area=true&area_color=BF5FFF" width="100%"/>
 
 </div>
 
