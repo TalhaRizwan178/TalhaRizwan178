@@ -51,47 +51,123 @@ I build real-world projects combining **React, Node.js, Flask, MongoDB, MySQL, a
 
 <!-- BEGIN PROJECT-CARDS -->
 
-* **SplitSure AI Expense Manager**
-  React · Node.js · Flask · MySQL · HeidiSQL · Python
+<div align="left">
 
-* **Seraphis AI Chatbot**
-  React · Node.js · Flask · MongoDB · Python
+<h3>🧠 SplitSure AI Expense Manager</h3>
+<p>
+  <span>React</span> • 
+  <span>Node.js</span> • 
+  <span>Flask</span> • 
+  <span>MySQL</span> • 
+  <span>HeidiSQL</span> • 
+  <span>Python</span>
+</p>
+<hr/>
 
-* **GameVault – Game Manager App**
-  React · Node.js · MongoDB
+<h3>🤖 Seraphis AI Chatbot</h3>
+<p>
+  <span>React</span> • 
+  <span>Node.js</span> • 
+  <span>Flask</span> • 
+  <span>MongoDB</span> • 
+  <span>Python</span>
+</p>
+<hr/>
 
-* **Online Store APP**
-  React · Node.js · MySQL · HeidiSQL
+<h3>🎮 GameVault – Game Manager App</h3>
+<p>
+  <span>React</span> • 
+  <span>Node.js</span> • 
+  <span>MongoDB</span>
+</p>
+<hr/>
 
-* **Online Image Sharing Platform**
-  React · Node.js · MySQL · HeidiSQL
+<h3>🛒 Online Store APP</h3>
+<p>
+  <span>React</span> • 
+  <span>Node.js</span> • 
+  <span>MySQL</span> • 
+  <span>HeidiSQL</span>
+</p>
+<hr/>
 
-* **Notes APP**
-  React · Node.js · MySQL · HeidiSQL
+<h3>🖼 Online Image Sharing Platform</h3>
+<p>
+  <span>React</span> • 
+  <span>Node.js</span> • 
+  <span>MySQL</span> • 
+  <span>HeidiSQL</span>
+</p>
+<hr/>
 
-* **Hospital Management System**
-  HTML · CSS · PHP · MySQL
+<h3>📝 Notes APP</h3>
+<p>
+  <span>React</span> • 
+  <span>Node.js</span> • 
+  <span>MySQL</span> • 
+  <span>HeidiSQL</span>
+</p>
+<hr/>
 
-* **Android Exploitation Toolkit**
-  Kali Linux · MSFvenom · Meterpreter
+<h3>🏥 Hospital Management System</h3>
+<p>
+  <span>HTML</span> • 
+  <span>CSS</span> • 
+  <span>PHP</span> • 
+  <span>MySQL</span>
+</p>
+<hr/>
 
-* **Online Banking System**
-  C++ · CLI
+<h3>🛡 Android Exploitation Toolkit</h3>
+<p>
+  <span>Kali Linux</span> • 
+  <span>MSFvenom</span> • 
+  <span>Meterpreter</span>
+</p>
+<hr/>
 
-* **Hangman Game**
-  C++ · CLI
+<h3>🏦 Online Banking System</h3>
+<p>
+  <span>C++</span> • 
+  <span>CLI</span>
+</p>
+<hr/>
 
-* **Maze Explorer**
-  Python · DFS Algorithm
+<h3>🎮 Hangman Game</h3>
+<p>
+  <span>C++</span> • 
+  <span>CLI</span>
+</p>
+<hr/>
 
-* **Smart Grocery System**
-  Python · Tkinter
+<h3>🧩 Maze Explorer</h3>
+<p>
+  <span>Python</span> • 
+  <span>DFS Algorithm</span>
+</p>
+<hr/>
 
-* **Meloera Music Player**
-  HTML · CSS · Bootstrap
+<h3>🛒 Smart Grocery System</h3>
+<p>
+  <span>Python</span> • 
+  <span>Tkinter</span>
+</p>
+<hr/>
 
-* **Book Management System**
-  React
+<h3>🎵 Meloera Music Player</h3>
+<p>
+  <span>HTML</span> • 
+  <span>CSS</span> • 
+  <span>Bootstrap</span>
+</p>
+<hr/>
+
+<h3>📚 Book Management System</h3>
+<p>
+  <span>React</span>
+</p>
+
+</div>
 
 <!-- END PROJECT-CARDS -->
 
@@ -99,20 +175,30 @@ I build real-world projects combining **React, Node.js, Flask, MongoDB, MySQL, a
 
 ### 💼 Experience
 
-**Summer Intern – Web Development**
-PTV News
-24/JULY/2025 – 17/SEPTEMBER/2025
+<div align="left">
 
-▸ Contributed to web development & maintenance of the PTV News website
-▸ Integrated MySQL with Node.js (Express) & React
-▸ Designed responsive masonry grid layouts
-▸ Built full-stack applications in a professional environment
+<h3>💻 Summer Intern – Web Development</h3>
+<p><strong>PTV News</strong><br/>
+24/JULY/2025 – 17/SEPTEMBER/2025</p>
 
-**Volunteer**
-Al-Khidmat Dastarkhawan – Commeti Chowk, Rawalpindi
-13/FEBRUARY/2024 – 13/MARCH/2024
+<ul>
+  <li>Contributed to web development & maintenance of the PTV News website</li>
+  <li>Integrated MySQL with Node.js (Express) & React</li>
+  <li>Designed responsive masonry grid layouts</li>
+  <li>Built full-stack applications in a professional environment</li>
+</ul>
 
-▸ Community food distribution & service support
+<hr/>
+
+<h3>🤝 Volunteer</h3>
+<p><strong>Al-Khidmat Dastarkhawan – Commeti Chowk, Rawalpindi</strong><br/>
+13/FEBRUARY/2024 – 13/MARCH/2024</p>
+
+<ul>
+  <li>Community food distribution & service support</li>
+</ul>
+
+</div>
 
 #
 
