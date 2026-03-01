@@ -303,15 +303,13 @@ React-based app to add, search, and manage a personal book collection.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TalhaRizwan178&bg_color=1a1b27&color=c0caf5&line=70a5fd&point=bf91f3&title_color=70a5fd&area=true&area_color=bf91f3" width="100%"/>
 
-<!-- Snake contribution animation -->
+<!-- Snake contribution animation — shows after GitHub Action runs successfully -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TalhaRizwan178/TalhaRizwan178/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TalhaRizwan178/TalhaRizwan178/output/github-contribution-grid-snake.svg"/>
   <img alt="Snake animation" src="https://raw.githubusercontent.com/TalhaRizwan178/TalhaRizwan178/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-<!-- Metrics card -->
-<img src="https://metrics.lecoq.io/TalhaRizwan178?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKarachi" width="100%"/>
 
 </div>
 
