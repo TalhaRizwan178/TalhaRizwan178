@@ -1,10 +1,10 @@
 # 🧑‍💻 Talha Rizwan
 
-**`Full-Stack Developer | AI Explorer | Digital Craftsman`**
+**`Full-Stack Developer | AI Explorer | Security Enthusiast`**
 
-I'm a computer science student, MERN stack builder, AI enthusiast, and security-focused developer passionate about building real-world systems — from full-stack web apps to intelligent chatbots.
+I'm a computer science student, MERN stack developer, AI builder, and cybersecurity enthusiast focused on building scalable full-stack applications and intelligent systems.
 
-Currently building scalable apps with React, Node.js, Flask, MongoDB, and exploring AI/ML for production-ready systems.
+I build real-world projects combining **React, Node.js, Flask, MongoDB, MySQL, and Python**, while exploring AI/ML and digital forensics to engineer smarter solutions.
 
    <p align="left">
       <a href="https://github.com/TalhaRizwan178?tab=followers">
@@ -22,13 +22,28 @@ Currently building scalable apps with React, Node.js, Flask, MongoDB, and explor
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
+![MATLAB](https://img.shields.io/badge/matlab-%23e16737.svg?style=for-the-badge\&logo=mathworks\&logoColor=white)
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge\&logo=express\&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge\&logo=flask\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Tkinter](https://img.shields.io/badge/tkinter-%230078D7.svg?style=for-the-badge\&logo=python\&logoColor=white)
+
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge\&logo=linux\&logoColor=black)
+![HeidiSQL](https://img.shields.io/badge/heidisql-%2300ADEF.svg?style=for-the-badge)
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![VS Code](https://img.shields.io/badge/vs_code-%23007ACC.svg?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/visual_studio-%235C2D91.svg?style=for-the-badge\&logo=visualstudio\&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge\&logo=virtualbox\&logoColor=white)
+![StarUML](https://img.shields.io/badge/staruml-%23FF6F00.svg?style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/kali_linux-%23557C94.svg?style=for-the-badge\&logo=kalilinux\&logoColor=white)
+![MS Office](https://img.shields.io/badge/ms_office-%23D83B01.svg?style=for-the-badge\&logo=microsoftoffice\&logoColor=white)
 
 #
 
@@ -36,48 +51,82 @@ Currently building scalable apps with React, Node.js, Flask, MongoDB, and explor
 
 <!-- BEGIN PROJECT-CARDS -->
 
-* **Seraphis AI Chatbot**
-  React · Flask · MongoDB · Python
-  Full-stack ChatGPT-style chatbot with REST API integration and persistent chat storage.
-
 * **SplitSure AI Expense Manager**
-  React · Node.js · Flask · MySQL
-  Smart expense management system with AI-based categorization and analytics.
+  React · Node.js · Flask · MySQL · HeidiSQL · Python
 
-* **GameVault (MERN Stack)**
-  React · Node.js · MongoDB Atlas
-  Cyberpunk-themed CRUD web app for managing game collections with image upload support.
+* **Seraphis AI Chatbot**
+  React · Node.js · Flask · MongoDB · Python
+
+* **GameVault – Game Manager App**
+  React · Node.js · MongoDB
+
+* **Online Store APP**
+  React · Node.js · MySQL · HeidiSQL
+
+* **Online Image Sharing Platform**
+  React · Node.js · MySQL · HeidiSQL
+
+* **Notes APP**
+  React · Node.js · MySQL · HeidiSQL
 
 * **Hospital Management System**
   HTML · CSS · PHP · MySQL
-  Database-driven system for managing patients, doctors, and appointments.
 
-* **CLI Maze Solver**
-  Python
-  Command-line maze solving system implementing search algorithms.
+* **Android Exploitation Toolkit**
+  Kali Linux · MSFvenom · Meterpreter
+
+* **Online Banking System**
+  C++ · CLI
+
+* **Hangman Game**
+  C++ · CLI
+
+* **Maze Explorer**
+  Python · DFS Algorithm
+
+* **Smart Grocery System**
+  Python · Tkinter
+
+* **Meloera Music Player**
+  HTML · CSS · Bootstrap
+
+* **Book Management System**
+  React
 
 <!-- END PROJECT-CARDS -->
 
 #
 
-### 📊 Current Focus
+### 💼 Experience
 
-* 🤖 Building AI/ML-powered applications
-* 🌐 Developing scalable MERN stack systems
-* 🔐 Exploring cybersecurity & digital forensics
-* 🧠 Strengthening data structures & system design
+**Summer Intern – Web Development**
+PTV News
+24/JULY/2025 – 17/SEPTEMBER/2025
+
+▸ Contributed to web development & maintenance of the PTV News website
+▸ Integrated MySQL with Node.js (Express) & React
+▸ Designed responsive masonry grid layouts
+▸ Built full-stack applications in a professional environment
+
+**Volunteer**
+Al-Khidmat Dastarkhawan – Commeti Chowk, Rawalpindi
+13/FEBRUARY/2024 – 13/MARCH/2024
+
+▸ Community food distribution & service support
 
 #
 
 <!--
 <details>
  <summary><h3>👨‍💻 Talha's Coding Journey</h3></summary>
-   I started my journey as a curious computer science student fascinated by how systems work under the hood. From building simple HTML projects to full-stack MERN applications and AI-powered chatbots, every step has been about leveling up.  
+   I started my journey as a curious computer science student fascinated by how systems work. From building simple console programs in C++ to full-stack MERN applications and AI-powered chatbots, every project pushed me to level up.  
 
-   I’m deeply interested in combining software engineering with artificial intelligence to build products that solve real-world problems.  
+   My goal is to build intelligent systems and scalable tech products that solve real-world problems.  
 
-   My long-term goal is to build intelligent systems and impactful tech products — not just projects, but scalable solutions.  
-
-   I believe in learning by building, breaking, debugging, and rebuilding better systems every time.
+   I believe in learning by building, breaking, debugging, and rebuilding stronger systems every time.
 </details>
 -->
+
+[website]: https://your-portfolio-link.com
+[youtube]: https://youtube.com/your-channel
+[x]: https://x.com/your-profile
