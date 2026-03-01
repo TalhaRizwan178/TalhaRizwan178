@@ -18,9 +18,11 @@ I build real-world projects combining **React, Node.js, Flask, MongoDB, MySQL, a
 ---
 
 <!-- Contribution activity graph -->
+<!-- Contribution activity graph -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TalhaRizwan178&show_icons=true&count_private=true&theme=tokyonight&border_color=bf91f3&bg_color=1a1b27&title_color=70a5fd&icon_color=70a5fd&text_color=c0caf5" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TalhaRizwan178&theme=tokyonight&cache_seconds=0" width="100%"/>
 </div>
+
 
 ---
 
@@ -253,14 +255,15 @@ React-based app to add, search, and manage a personal book collection.
 <table width="100%">
 <tr>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaRizwan178&layout=compact&theme=tokyonight&border_color=bf91f3&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TalhaRizwan178&theme=tokyonight&cache_seconds=0" width="100%"/>
 </td>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaRizwan178&layout=donut&theme=tokyonight&border_color=bf91f3&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TalhaRizwan178&theme=tokyonight&cache_seconds=0" width="100%"/>
 </td>
 </tr>
 </table>
 </div>
+
 
 ---
 
