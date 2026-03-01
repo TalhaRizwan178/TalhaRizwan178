@@ -66,8 +66,9 @@ I build real-world projects combining **React, Node.js, Flask, MongoDB, MySQL, a
 
 ### 🚀 Featured Projects
 
-<div align="left">
+<div align="center" style="display:flex; flex-wrap: wrap; justify-content:center; gap:15px;">
 
+<div style="background:#0d1117; padding:15px; border-radius:10px; width:250px; box-shadow:0px 4px 15px rgba(0,0,0,0.4);">
 <h3>🧠 SplitSure AI Expense Manager</h3>
 <p>
   <span>React</span> • 
@@ -77,8 +78,9 @@ I build real-world projects combining **React, Node.js, Flask, MongoDB, MySQL, a
   <span>HeidiSQL</span> • 
   <span>Python</span>
 </p>
-<hr/>
+</div>
 
+<div style="background:#0d1117; padding:15px; border-radius:10px; width:250px; box-shadow:0px 4px 15px rgba(0,0,0,0.4);">
 <h3>🤖 Seraphis AI Chatbot</h3>
 <p>
   <span>React</span> • 
@@ -87,100 +89,18 @@ I build real-world projects combining **React, Node.js, Flask, MongoDB, MySQL, a
   <span>MongoDB</span> • 
   <span>Python</span>
 </p>
-<hr/>
+</div>
 
+<div style="background:#0d1117; padding:15px; border-radius:10px; width:250px; box-shadow:0px 4px 15px rgba(0,0,0,0.4);">
 <h3>🎮 GameVault – Game Manager App</h3>
 <p>
   <span>React</span> • 
   <span>Node.js</span> • 
   <span>MongoDB</span>
 </p>
-<hr/>
+</div>
 
-<h3>🛒 Online Store APP</h3>
-<p>
-  <span>React</span> • 
-  <span>Node.js</span> • 
-  <span>MySQL</span> • 
-  <span>HeidiSQL</span>
-</p>
-<hr/>
-
-<h3>🖼 Online Image Sharing Platform</h3>
-<p>
-  <span>React</span> • 
-  <span>Node.js</span> • 
-  <span>MySQL</span> • 
-  <span>HeidiSQL</span>
-</p>
-<hr/>
-
-<h3>📝 Notes APP</h3>
-<p>
-  <span>React</span> • 
-  <span>Node.js</span> • 
-  <span>MySQL</span> • 
-  <span>HeidiSQL</span>
-</p>
-<hr/>
-
-<h3>🏥 Hospital Management System</h3>
-<p>
-  <span>HTML</span> • 
-  <span>CSS</span> • 
-  <span>PHP</span> • 
-  <span>MySQL</span>
-</p>
-<hr/>
-
-<h3>🛡 Android Exploitation Toolkit</h3>
-<p>
-  <span>Kali Linux</span> • 
-  <span>MSFvenom</span> • 
-  <span>Meterpreter</span>
-</p>
-<hr/>
-
-<h3>🏦 Online Banking System</h3>
-<p>
-  <span>C++</span> • 
-  <span>CLI</span>
-</p>
-<hr/>
-
-<h3>🎮 Hangman Game</h3>
-<p>
-  <span>C++</span> • 
-  <span>CLI</span>
-</p>
-<hr/>
-
-<h3>🧩 Maze Explorer</h3>
-<p>
-  <span>Python</span> • 
-  <span>DFS Algorithm</span>
-</p>
-<hr/>
-
-<h3>🛒 Smart Grocery System</h3>
-<p>
-  <span>Python</span> • 
-  <span>Tkinter</span>
-</p>
-<hr/>
-
-<h3>🎵 Meloera Music Player</h3>
-<p>
-  <span>HTML</span> • 
-  <span>CSS</span> • 
-  <span>Bootstrap</span>
-</p>
-<hr/>
-
-<h3>📚 Book Management System</h3>
-<p>
-  <span>React</span>
-</p>
+<!-- Add more project cards in same style -->
 
 </div>
 
@@ -220,16 +140,16 @@ I build real-world projects combining **React, Node.js, Flask, MongoDB, MySQL, a
 <div align="center">
 
 <!-- Total GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=TalhaRizwan178&show_icons=true&count_private=true&theme=radical&hide_border=false&include_all_commits=true&title_color=FFFFFF&icon_color=FF5733&text_color=FFFFFF&bg_color=0D1117" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TalhaRizwan178&show_icons=true&count_private=true&theme=radical" height="200"/>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaRizwan178&layout=compact&theme=radical&hide_border=false&title_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaRizwan178&layout=compact&theme=radical" height="200"/>
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TalhaRizwan178&theme=radical&hide_border=false&background=0D1117&stroke=FF5733&fire=FFBD33&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TalhaRizwan178&theme=radical" height="180"/>
 
 <!-- Contribution Graph -->
-<img src="https://activity-graph.herokuapp.com/graph?username=TalhaRizwan178&theme=react-dark&hide_border=false&area=true&bg_color=0D1117&color=FF5733&line=FFBD33&point=FFFFFF" height="180"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=TalhaRizwan178&theme=react-dark&area=true" height="180"/>
 
 </div>
 
