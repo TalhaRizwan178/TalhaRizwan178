@@ -66,38 +66,79 @@ I build real-world projects combining **React, Node.js, Flask, MongoDB, MySQL, a
 
 ### 🚀 Featured Projects
 
-<div align="center" style="display:flex; flex-wrap: wrap; justify-content:center; gap:15px;">
+<div align="center" style="display:flex; flex-wrap: wrap; justify-content:center; gap:20px;">
 
-<div style="background:#0d1117; padding:15px; border-radius:10px; width:250px; box-shadow:0px 4px 15px rgba(0,0,0,0.4);">
-<h3>🧠 SplitSure AI Expense Manager</h3>
-<p>
-  <span>React</span> • 
-  <span>Node.js</span> • 
-  <span>Flask</span> • 
-  <span>MySQL</span> • 
-  <span>HeidiSQL</span> • 
-  <span>Python</span>
-</p>
+<!-- Project Card Template -->
+<div style="background:#0d1117; padding:20px; border-radius:15px; width:300px; box-shadow:0px 6px 20px rgba(0,0,0,0.5); transition:transform 0.3s; margin-bottom:20px;">
+<h3 style="margin-bottom:10px;">🧠 SplitSure AI Expense Manager</h3>
+<p style="color:#61dafb; font-weight:bold;">React · Node.js · Flask · MySQL · HeidiSQL · Python</p>
 </div>
 
-<div style="background:#0d1117; padding:15px; border-radius:10px; width:250px; box-shadow:0px 4px 15px rgba(0,0,0,0.4);">
-<h3>🤖 Seraphis AI Chatbot</h3>
-<p>
-  <span>React</span> • 
-  <span>Node.js</span> • 
-  <span>Flask</span> • 
-  <span>MongoDB</span> • 
-  <span>Python</span>
-</p>
+<div style="background:#0d1117; padding:20px; border-radius:15px; width:300px; box-shadow:0px 6px 20px rgba(0,0,0,0.5); transition:transform 0.3s; margin-bottom:20px;">
+<h3 style="margin-bottom:10px;">🤖 Seraphis AI Chatbot</h3>
+<p style="color:#61dafb; font-weight:bold;">React · Node.js · Flask · MongoDB · Python</p>
 </div>
 
-<div style="background:#0d1117; padding:15px; border-radius:10px; width:250px; box-shadow:0px 4px 15px rgba(0,0,0,0.4);">
-<h3>🎮 GameVault – Game Manager App</h3>
-<p>
-  <span>React</span> • 
-  <span>Node.js</span> • 
-  <span>MongoDB</span>
-</p>
+<div style="background:#0d1117; padding:20px; border-radius:15px; width:300px; box-shadow:0px 6px 20px rgba(0,0,0,0.5); transition:transform 0.3s; margin-bottom:20px;">
+<h3 style="margin-bottom:10px;">🛒 Online Store APP</h3>
+<p style="color:#61dafb; font-weight:bold;">React · Node.js · MySQL · HeidiSQL</p>
+</div>
+
+<div style="background:#0d1117; padding:20px; border-radius:15px; width:300px; box-shadow:0px 6px 20px rgba(0,0,0,0.5); transition:transform 0.3s; margin-bottom:20px;">
+<h3 style="margin-bottom:10px;">🖼 Online Image Sharing Platform</h3>
+<p style="color:#61dafb; font-weight:bold;">React · Node.js · MySQL · HeidiSQL</p>
+</div>
+
+<div style="background:#0d1117; padding:20px; border-radius:15px; width:300px; box-shadow:0px 6px 20px rgba(0,0,0,0.5); transition:transform 0.3s; margin-bottom:20px;">
+<h3 style="margin-bottom:10px;">📝 Notes APP</h3>
+<p style="color:#61dafb; font-weight:bold;">React · Node.js · MySQL · HeidiSQL</p>
+</div>
+
+<div style="background:#0d1117; padding:20px; border-radius:15px; width:300px; box-shadow:0px 6px 20px rgba(0,0,0,0.5); transition:transform 0.3s; margin-bottom:20px;">
+<h3 style="margin-bottom:10px;">🛒 Smart Grocery System</h3>
+<p style="color:#61dafb; font-weight:bold;">Python · Tkinter</p>
+</div>
+
+<div style="background:#0d1117; padding:20px; border-radius:15px; width:300px; box-shadow:0px 6px 20px rgba(0,0,0,0.5); transition:transform 0.3s; margin-bottom:20px;">
+<h3 style="margin-bottom:10px;">🎮 GameVault – Game Manager App</h3>
+<p style="color:#61dafb; font-weight:bold;">React · Node.js · MongoDB</p>
+</div>
+
+<div style="background:#0d1117; padding:20px; border-radius:15px; width:300px; box-shadow:0px 6px 20px rgba(0,0,0,0.5); transition:transform 0.3s; margin-bottom:20px;">
+<h3 style="margin-bottom:10px;">📚 Book Management System</h3>
+<p style="color:#61dafb; font-weight:bold;">React</p>
+</div>
+
+<div style="background:#0d1117; padding:20px; border-radius:15px; width:300px; box-shadow:0px 6px 20px rgba(0,0,0,0.5); transition:transform 0.3s; margin-bottom:20px;">
+<h3 style="margin-bottom:10px;">🎵 Meloera Music Player</h3>
+<p style="color:#61dafb; font-weight:bold;">HTML · CSS · Bootstrap</p>
+</div>
+
+<div style="background:#0d1117; padding:20px; border-radius:15px; width:300px; box-shadow:0px 6px 20px rgba(0,0,0,0.5); transition:transform 0.3s; margin-bottom:20px;">
+<h3 style="margin-bottom:10px;">🧩 Maze Explorer</h3>
+<p style="color:#61dafb; font-weight:bold;">Python · DFS Algorithm</p>
+</div>
+
+<div style="background:#0d1117; padding:20px; border-radius:15px; width:300px; box-shadow:0px 6px 20px rgba(0,0,0,0.5); transition:transform 0.3s; margin-bottom:20px;">
+<h3 style="margin-bottom:10px;">🛡 Android Exploitation Toolkit</h3>
+<p style="color:#61dafb; font-weight:bold;">Kali Linux · MSFvenom · Meterpreter</p>
+</div>
+
+<div style="background:#0d1117; padding:20px; border-radius:15px; width:300px; box-shadow:0px 6px 20px rgba(0,0,0,0.5); transition:transform 0.3s; margin-bottom:20px;">
+<h3 style="margin-bottom:10px;">🏥 Hospital Management System</h3>
+<p style="color:#61dafb; font-weight:bold;">HTML · CSS · PHP · MySQL</p>
+</div>
+
+<div style="background:#0d1117; padding:20px; border-radius:15px; width:300px; box-shadow:0px 6px 20px rgba(0,0,0,0.5); transition:transform 0.3s; margin-bottom:20px;">
+<h3 style="margin-bottom:10px;">🏦 Online Banking System</h3>
+<p style="color:#61dafb; font-weight:bold;">C++ · CLI</p>
+</div>
+
+<div style="background:#0d1117; padding:20px; border-radius:15px; width:300px; box-shadow:0px 6px 20px rgba(0,0,0,0.5); transition:transform 0.3s; margin-bottom:20px;">
+<h3 style="margin-bottom:10px;">🎮 Hangman Game</h3>
+<p style="color:#61dafb; font-weight:bold;">C++ · CLI</p>
+</div>
+
 </div>
 
 <!-- Add more project cards in same style -->
