@@ -17,51 +17,50 @@ I build real-world projects combining **React, Node.js, Flask, MongoDB, MySQL, a
 
 ---
 
-## 📄 Resume
+### 📄 View My CV
 
-<div align="center">
-
+<p align="center">
 <a href="https://github.com/TalhaRizwan178/TalhaRizwan178/blob/main/Talha_Rizwan_CV.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/View%20My%20CV-4285F4?style=for-the-badge&logo=readthedocs&logoColor=white" />
+<img src="https://img.shields.io/badge/View%20CV-008CBA?style=for-the-badge&logo=file-pdf&logoColor=white" alt="View CV">
 </a>
-
-&nbsp;&nbsp;
-
-<a href="https://raw.githubusercontent.com/TalhaRizwan178/TalhaRizwan178/main/Talha_Rizwan_CV.pdf" download>
-  <img src="https://img.shields.io/badge/Download%20My%20CV-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" />
+<a href="https://github.com/TalhaRizwan178/TalhaRizwan178/raw/main/Talha_Rizwan_CV.pdf" download>
+<img src="https://img.shields.io/badge/Download%20CV-4CAF50?style=for-the-badge&logo=download&logoColor=white" alt="Download CV">
 </a>
-
-</div>
+</p>
 
 ---
 
 ### 🧰 Languages and Tools
 
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MATLAB](https://img.shields.io/badge/matlab-%23e16737.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+<div align="center">
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tkinter](https://img.shields.io/badge/tkinter-%230078D7.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HeidiSQL](https://img.shields.io/badge/heidisql-%2300ADEF.svg?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-0078D7?style=for-the-badge&logo=python&logoColor=white)
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/vs_code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/visual_studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
-![StarUML](https://img.shields.io/badge/staruml-%23FF6F00.svg?style=for-the-badge)
-![Kali Linux](https://img.shields.io/badge/kali_linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
-![MS Office](https://img.shields.io/badge/ms_office-%23D83B01.svg?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![HeidiSQL](https://img.shields.io/badge/HeidiSQL-00ADEF?style=for-the-badge)
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![StarUML](https://img.shields.io/badge/StarUML-FF6F00?style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+
+</div>
 
 ---
 
@@ -216,16 +215,23 @@ I build real-world projects combining **React, Node.js, Flask, MongoDB, MySQL, a
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TalhaRizwan178&show_icons=true&theme=gruvbox" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaRizwan178&layout=compact&theme=gruvbox" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TalhaRizwan178&theme=gruvbox&border_radius=5" height="180em"/>
-</p>
+<!-- Total GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=TalhaRizwan178&show_icons=true&count_private=true&theme=radical&hide_border=false&include_all_commits=true&title_color=FFFFFF&icon_color=FF5733&text_color=FFFFFF&bg_color=0D1117" height="200"/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaRizwan178&layout=compact&theme=radical&hide_border=false&title_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" height="200"/>
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TalhaRizwan178&theme=radical&hide_border=false&background=0D1117&stroke=FF5733&fire=FFBD33&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="180"/>
+
+<!-- Contribution Graph -->
+<img src="https://activity-graph.herokuapp.com/graph?username=TalhaRizwan178&theme=react-dark&hide_border=false&area=true&bg_color=0D1117&color=FF5733&line=FFBD33&point=FFFFFF" height="180"/>
+
+</div>
 
 ---
 
