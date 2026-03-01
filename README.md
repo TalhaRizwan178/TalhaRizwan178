@@ -299,9 +299,9 @@ React-based app to add, search, and manage a personal book collection.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=TalhaRizwan178&background=0D0D1A&border=BF5FFF&stroke=BF5FFF&ring=00FFFF&fire=00FFFF&currStreakNum=E0AAFF&sideNums=E0AAFF&currStreakLabel=00FFFF&sideLabels=BF5FFF&dates=E0AAFF" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=TalhaRizwan178&background=1a1b27&border=bf91f3&stroke=bf91f3&ring=70a5fd&fire=70a5fd&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=70a5fd&sideLabels=bf91f3&dates=c0caf5" width="60%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TalhaRizwan178&bg_color=0D0D1A&color=E0AAFF&line=00FFFF&point=BF5FFF&title_color=00FFFF&area=true&area_color=BF5FFF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TalhaRizwan178&bg_color=1a1b27&color=c0caf5&line=70a5fd&point=bf91f3&title_color=70a5fd&area=true&area_color=bf91f3" width="100%"/>
 
 </div>
 
