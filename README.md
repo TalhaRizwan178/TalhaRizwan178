@@ -17,6 +17,13 @@ I build real-world projects combining **React, Node.js, Flask, MongoDB, MySQL, a
 
 ---
 
+<!-- Contribution activity graph — placed before CV for visibility -->
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TalhaRizwan178&theme=radical" width="100%"/>
+</div>
+
+---
+
 ### 📄 View My CV
 
 <p align="center">
@@ -241,6 +248,20 @@ React-based app to add, search, and manage a personal book collection.
 </tr>
 </table>
 
+<!-- Top Languages cards — placed right after projects -->
+<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TalhaRizwan178&theme=radical" width="100%"/>
+</td>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TalhaRizwan178&theme=radical" width="100%"/>
+</td>
+</tr>
+</table>
+</div>
+
 ---
 
 ### 💼 Experience
@@ -278,25 +299,8 @@ React-based app to add, search, and manage a personal book collection.
 
 <div align="center">
 
-<!-- Full-width profile overview bar -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TalhaRizwan178&theme=radical" width="100%"/>
-
-<!-- Two language cards side by side -->
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TalhaRizwan178&theme=radical" width="100%"/>
-</td>
-<td width="50%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TalhaRizwan178&theme=radical" width="100%"/>
-</td>
-</tr>
-</table>
-
-<!-- Streak centered -->
 <img src="https://streak-stats.demolab.com/?user=TalhaRizwan178&theme=radical" width="60%"/>
 
-<!-- Activity graph full width -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TalhaRizwan178&theme=react-dark&area=true" width="100%"/>
 
 </div>
