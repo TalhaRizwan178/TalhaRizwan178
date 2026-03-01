@@ -278,13 +278,16 @@ React-based app to add, search, and manage a personal book collection.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TalhaRizwan178&show_icons=true&count_private=true&theme=radical" height="200"/>
+<!-- Row 1: Profile Summary Cards (reliable, actively maintained) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TalhaRizwan178&theme=radical" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaRizwan178&layout=compact&theme=radical" height="200"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TalhaRizwan178&theme=radical" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TalhaRizwan178&theme=radical" height="180"/>
 
+<!-- Row 2: Streak & Activity Graph -->
 <img src="https://streak-stats.demolab.com/?user=TalhaRizwan178&theme=radical" height="180"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TalhaRizwan178&theme=react-dark&area=true" height="180"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TalhaRizwan178&theme=react-dark&area=true" width="100%"/>
 
 </div>
 
